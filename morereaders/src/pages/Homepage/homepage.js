@@ -1,7 +1,7 @@
+import Topnavbar from "../../components/topnavbar/Topnavbar";
+
 export function HomePage() {
     return (
-        <div>
-            This is the first step
-        </div>
+        <Topnavbar/>
     )
 };
