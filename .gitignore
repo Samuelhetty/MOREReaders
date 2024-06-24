@@ -11,6 +11,9 @@
 # production
 /build
 
+# python backend environment
+vproj
+
 # misc
 .DS_Store
 .env.local
