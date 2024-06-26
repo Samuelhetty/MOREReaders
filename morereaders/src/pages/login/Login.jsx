@@ -20,10 +20,9 @@ const Login = () => {
             <input type="password" placeholder="Password" />
             <button onClick={handleLogin}>Login</button>
           </form>
-          <span>Don't have an account?</span>
-          <Link to="/register">
-            <button>Signup</button>
-          </Link>
+          <span>Don't have an account?
+          <Link to="/register">Signup</Link>
+          </span>
         </div>
       </div>
     </div>

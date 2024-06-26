@@ -8,16 +8,16 @@ const Register = () => {
         <div className="left">
           <h1>SingUp</h1>
           <form>
+            <input type="text" placeholder="Full Name" />
             <input type="text" placeholder="Username" />
             <input type="email" placeholder="Email" />
             <input type="password" placeholder="Password" />
-            <input type="text" placeholder="Name" />
             <button>Signup</button>
           </form>
-          <span>Already have an account?</span>
-          <Link to="/login">
-          <button>Login</button>
+          <span>Already have an account?
+          <Link to="/login">Login
           </Link>
+          </span>
         </div>
       </div>
     </div>

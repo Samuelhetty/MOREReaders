@@ -1,6 +1,6 @@
 .login {
     height: 100vh;
-    background-color: rgb(193, 190, 255);
+    background-color: rgb(119, 7, 85);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -24,6 +24,7 @@
   
         h1 {
         color: #555;
+        text-align: center;
         }
         
         form {
@@ -41,7 +42,7 @@
             width: 50%;
             padding: 10px;
             border: none;
-            background-color: #938eef;
+            background-color: #a8357c;
             color: white;
             font-weight: bold;
             cursor: pointer;
