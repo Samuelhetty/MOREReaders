@@ -1,15 +1,20 @@
 $themes: (
   light: (
-    textColor: #000,
-    bg: white,
-    logo: rgb(48, 2, 38),
+    textColor: whitesmoke,
+    textColor2: #000,
+    bg: #46041f,
+    bg2: white,
+    logo: white,
     bgSoft: #f6f3f3,
     textColorSoft: #555,
     border: lightgray,
   ),
   dark: (
     textColor: whitesmoke,
+    textColor2: whitesmoke,
     bg: #222,
+    bg2: #222,
+    img: white,
     logo: white,
     bgSoft: #333,
     textColorSoft: lightgray,
