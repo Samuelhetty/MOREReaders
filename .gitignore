@@ -13,6 +13,10 @@
 
 # python backend environment
 vproj
+.env
+
+# pycache
+__pycache__
 
 # misc
 .DS_Store
